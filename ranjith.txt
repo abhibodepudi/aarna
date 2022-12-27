@@ -1,2 +1,2 @@
  tis is helloworld
-  we are developing for atmecs company using devops tools to automate the things  
+  we are developing  atmecs company using devops tools to automate the things  
