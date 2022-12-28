@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h1>welcome to Devops training </h1>
+
+<p>Build the jenkins job  to deploy in tomcat serrver.</p>
 
 </body>
 </html>
